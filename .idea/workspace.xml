@@ -6,6 +6,15 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
     </expand>
     <select>
       <path>
@@ -16,7 +25,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f4bdee8-fce5-4b3c-9d5b-78c556873355" name="Default Changelist" comment="" />
+    <list default="true" id="0f4bdee8-fce5-4b3c-9d5b-78c556873355" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,9 +57,15 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="git" />
+    </option>
   </component>
   <component name="RunManager">
     <configuration name="script.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="script.js" working-dir="$PROJECT_DIR$">
@@ -72,7 +90,12 @@
       <workItem from="1593503630446" duration="1896000" />
       <workItem from="1593505538847" duration="3000" />
       <workItem from="1593505624406" duration="3739000" />
-      <workItem from="1593515449122" duration="355000" />
+      <workItem from="1593515449122" duration="7540000" />
+      <workItem from="1593607170956" duration="205000" />
+      <workItem from="1593607473395" duration="333000" />
+      <workItem from="1593607827632" duration="34000" />
+      <workItem from="1593607885712" duration="15000" />
+      <workItem from="1593608212399" duration="1312000" />
     </task>
     <servers />
   </component>
@@ -101,27 +124,63 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lesson 2: conditions and cicles" />
   </component>
   <component name="WindowStateProjectService">
     <state x="617" y="201" key="#Inspections" timestamp="1593505112898">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="617" y="201" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1593505112898" />
-    <state x="939" y="251" key="#script.js" timestamp="1593507277839">
+    <state x="1159" y="382" width="396" height="276" key="#Notifications" timestamp="1593607350028">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="939" y="251" key="#script.js/0.0.1920.1040@0.0.1920.1040" timestamp="1593507277839" />
+    <state x="1159" y="382" width="396" height="276" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1593607350028" />
+    <state x="939" y="251" key="#script.js" timestamp="1593521476626">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="939" y="251" key="#script.js/0.0.1920.1040@0.0.1920.1040" timestamp="1593521476626" />
+    <state x="1060" y="100" width="760" height="840" key="DiffContextDialog" timestamp="1593608624616">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1060" y="100" width="760" height="840" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593608624616" />
     <state x="1220" y="274" key="FileChooserDialogImpl" timestamp="1593507205455">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1220" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1593507205455" />
-    <state x="922" y="151" key="SettingsEditor" timestamp="1593514854713">
+    <state x="1293" y="419" key="GitRewordDialog" timestamp="1593524677051">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="922" y="151" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1593514854713" />
-    <state x="647" y="237" key="run.anything.popup" timestamp="1593507203555">
+    <state x="1293" y="419" key="GitRewordDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593524677051" />
+    <state width="922" height="272" key="GridCell.Tab.0.bottom" timestamp="1593516796372">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="647" y="237" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1593507203555" />
+    <state width="922" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593516796372" />
+    <state width="922" height="272" key="GridCell.Tab.0.center" timestamp="1593516796372">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="922" height="272" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593516796372" />
+    <state width="922" height="272" key="GridCell.Tab.0.left" timestamp="1593516796371">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="922" height="272" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593516796371" />
+    <state width="922" height="272" key="GridCell.Tab.0.right" timestamp="1593516796372">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="922" height="272" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593516796372" />
+    <state x="922" y="151" key="SettingsEditor" timestamp="1593516624262">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="922" y="151" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1593516624262" />
+    <state x="1032" y="252" key="Vcs.Push.Dialog.v2" timestamp="1593524748441">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1032" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1593524748441" />
+    <state x="647" y="237" key="run.anything.popup" timestamp="1593516662265">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="647" y="237" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1593516662265" />
   </component>
 </project>
